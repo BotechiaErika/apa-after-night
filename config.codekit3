@@ -279,6 +279,18 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/public\/stylesheets\/style_login-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/stylesheets\/style_login-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/public\/stylesheets\/style_login.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -314,6 +326,36 @@
       "oAP" : "\/public\/stylesheets\/style-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/src\/app-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/app-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/src\/app.js" : {
       "bF" : 0,
@@ -399,6 +441,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/src\/controllers\/usersControllers-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/src\/controllers\/usuariosControllers-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/controllers\/usuariosControllers-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -507,6 +560,17 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/src\/routes\/usersRouters-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/routes\/usersRouters-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/src\/routes\/usersRouters.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -514,6 +578,17 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/src\/routes\/usersRouters-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/src\/routes\/usuariosRoutes-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/src\/routes\/usuariosRoutes-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
